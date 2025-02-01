@@ -22,7 +22,6 @@ The application is designed to manage and store Frequently Asked Questions (FAQs
 ## Tech Stack
 
 - **Backend**: Django, Django REST Framework
-- **Database**: PostgreSQL
 - **Cache**: Redis
 - **Frontend**: N/A (Backend only)
 - **Editor**: CKEditor for WYSIWYG editing
