@@ -1,0 +1,9 @@
+Django==4.2
+djangorestframework==3.14.0
+django-ckeditor==6.5.0
+django-redis==5.0.0
+googletrans==4.0.0-rc1
+psycopg2==2.9.6  # For PostgreSQL, use if you're using PostgreSQL in production
+redis==4.5.1
+pytest==7.4.0
+gunicorn==20.1.0
